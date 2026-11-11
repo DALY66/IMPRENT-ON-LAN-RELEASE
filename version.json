@@ -1,7 +1,7 @@
-﻿{
-    "releaseNotes":  "Actualizacion v1.0.6: Sincronizacion automatica de historial y diseno entre Principal y Secundario, control cloud instantaneo 2.5s y ventana moderna sin barra nativa.",
-    "name":  "Imprent on LAN",
-    "version":  "1.0.6",
-    "downloadUrl":  "https://raw.githubusercontent.com/DALY66/IMPRENT-ON-LAN-RELEASE/main/app-update.zip",
-    "publishedAt":  "2026-11-11T23:08:45Z"
+{
+  "version": "1.0.6",
+  "name": "Imprent on LAN",
+  "releaseNotes": "Actualización automática desplegada desde GitHub (2026-11-11 22:47)",
+  "downloadUrl": "https://raw.githubusercontent.com/DALY66/IMPRENT-ON-LAN-RELEASE/main/app-update.zip",
+  "publishedAt": "2026-11-11T22:47:51Z"
 }
